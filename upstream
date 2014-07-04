@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+Upstream is where a repository is pulled from, most likely from git repository, to a local repository. Conversely, downstream is where changes are submitted to be pushed upstream from a local repository to a git repository.
