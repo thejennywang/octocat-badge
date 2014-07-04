@@ -1,1 +1,2 @@
-Explain what git clone does, in your own words
+
+git clone makes a copy of a repository on github onto your local machine . On top of this, the folder inwhich a clone is made is automatically initialized as a repository and remotes are also created in one fell swoop.
